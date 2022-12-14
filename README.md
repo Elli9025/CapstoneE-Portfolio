@@ -1,4 +1,4 @@
-# CapstoneE-Portfolio
+# Capstone E-Portfolio
 E-portfolio for Capstone
 
 Project 1 - Personal Website  
